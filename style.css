@@ -1,0 +1,13 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: wheat;
+}
+
+.title {
+    color: rgb(114, 16, 16);
+}
+
+a {
+    font-weight: bold;
+}
